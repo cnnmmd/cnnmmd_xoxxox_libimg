@@ -9,7 +9,7 @@ This is a plugin for the following application:
 [https://github.com/cnnmmd/cnnmmd](https://github.com/cnnmmd/cnnmmd)
 
 For more details, see:  
-[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_libimg.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_libimg.xht)
+[https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_libimg.htm](https://cnnmmd.xoxxox.net/doc/eng/refmod_cnnmmd_xoxxox_libimg.htm)
 
 ## 概要
 
